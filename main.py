@@ -117,7 +117,7 @@ def multi_target_path(start, goals):
 # - You can change or remove the seed for different target sets
 # -------------------------------------------------------------------------------------
 def set_random_targets(min_targets=2, max_targets=4):
-    random.seed(455)  # Change this seed if you want different results
+    random.seed(168)  # Change this seed if you want different results
     for i in range(ROWS):
         for j in range(COLS):
             if maze[i][j] == 9:
