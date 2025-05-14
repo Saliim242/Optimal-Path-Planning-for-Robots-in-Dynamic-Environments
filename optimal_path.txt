@@ -4,11 +4,11 @@ Optimal Path (coordinates):
 Optimal Path (cell numbers):
 [51, 75, 99, 123, 122, 146, 170, 171, 172, 173, 174, 175, 176, 200, 201, 225, 226, 227, 228, 229, 230, 231, 230, 229, 205, 181, 157, 133, 109, 85, 86, 87, 88, 89, 65, 41, 42, 43, 44, 45, 46, 47, 71, 95, 119, 143, 167, 191, 215, 239, 263, 262, 261, 237]
 
-Time Taken: 0.0026 s 
+Time Taken: 0.0010 s 
 
 Nodes expanded: 162 
 
-Computation time: 0.0026 s 
+Computation time: 0.0010 s 
 
 Number of targets: 2 
 
